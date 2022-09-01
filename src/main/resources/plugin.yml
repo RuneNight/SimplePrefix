@@ -1,0 +1,7 @@
+name: PrefixSetting
+version: '${project.version}'
+main: rune.night.prefix.Main
+api-version: 1.19
+prefix: PFS
+authors: [ RuneNight ]
+description: Prefix Management.

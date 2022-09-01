@@ -1,0 +1,2 @@
+onChatPrefixAdmins: "§l§a[ADMIN：§e%PlayerName%§a]"
+onChatPrefix: "<%PlayerName%>"
